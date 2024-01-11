@@ -1,5 +1,6 @@
-Zbxstrike
-Search zabbix in shodan and test user and password default
+### Zbxstrike
+
+Search for zabbix servers in shodan with default password
 
 Install dependencies
 
